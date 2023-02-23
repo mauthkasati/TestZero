@@ -1,2 +1,2 @@
 # TestZero
-This repo is for training with the fit zero course.
+This repo is for training with the git zero course.
