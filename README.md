@@ -22,4 +22,4 @@ dit add
 git status
 git init
 ```
-my color is `#0969DA`
+my color is `#0969DA` and 
